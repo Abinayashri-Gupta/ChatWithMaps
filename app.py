@@ -329,6 +329,14 @@ st.markdown("""
     .stAlert > div {
         color: #721c24 !important;
     }
+    body {
+    background-color: #e6f2e6 !important;  /* pale green */
+    }
+    html, body, #root, .main {
+    background-color: #e6f2e6 !important;
+    }
+
+
 </style>
 """, unsafe_allow_html=True)
 
