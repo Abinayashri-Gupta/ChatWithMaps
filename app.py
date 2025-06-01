@@ -286,7 +286,7 @@ st.markdown("""
         border-left: 5px solid #4CAF50;
     }
     .white-text {
-        color: white !important;
+        color: black !important;
     }
     .weather-card {
         background-color: #e8f5e9;
