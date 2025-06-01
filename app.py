@@ -76,7 +76,7 @@ st.markdown("""
     }
     
     .main {
-        background-color: var(--background);
+        background-color: var(--card);
         padding: 1.5rem;
     }
     
