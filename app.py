@@ -168,7 +168,8 @@ st.markdown("""
     }
     
     .sidebar .sidebar-content {
-        background-color: var(--background);
+        
+        background-color: #013220 !important; 
         padding: 1.5rem;
     }
     
@@ -234,11 +235,13 @@ st.markdown("""
         color: black !important;
         font-family: 'Helvetica Neue', Arial, sans-serif;
     }
+    
     .main {
-        background-color: #f0f7f0;
+        background-color: #f4fff4 !important;  /* Very light green */
         padding: 2rem;
         border-radius: 10px;
     }
+
     .stButton>button {
         background-color: #4CAF50;
         color: white;
