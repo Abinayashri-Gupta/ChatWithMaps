@@ -232,7 +232,7 @@ st.markdown("""
     }
 
     body {
-        color: black !important;
+        color: white !important;
         font-family: 'Helvetica Neue', Arial, sans-serif;
     }
     
