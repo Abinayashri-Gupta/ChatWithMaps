@@ -237,7 +237,9 @@ st.markdown("""
     }
     
     .main {
-        background-color: #f4fff4 !important;  /* Very light green */
+        
+        background-color: #e6f2e6 !important;  /* Slightly different pale green */
+
         padding: 2rem;
         border-radius: 10px;
     }
