@@ -847,7 +847,7 @@ def local_trip_planner(location, duration):
 st.markdown("<h1 style='color: black;'>🌍 Chat with Maps!</h1>", unsafe_allow_html=True)
 
 # Add language selection to the sidebar
-st.sidebar.markdown("<span style='color:white; font-size:20px; font-weight:bold;'>🌐 Choose Language</span>", unsafe_allow_html=True)
+st.sidebar.markdown("<span style='color:black; font-size:22px; font-weight:bold;'>🌐 Choose Language</span>", unsafe_allow_html=True)
 
 #st.sidebar.markdown("<span style='color:white; font-size:16px;'>Choose language</span>", unsafe_allow_html=True)
 
